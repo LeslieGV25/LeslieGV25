@@ -45,7 +45,7 @@ Mi aportación: gestión comercial completa con el cliente (toma de requerimient
 
 **Panel de administrador**
 <p>
-  <img src="images/admin-4.jpeg" width="180">
+  <img src="images/admin-5.jpeg" width="180">
   <img src="images/admin-2.jpeg" width="180">
 </p>
 
