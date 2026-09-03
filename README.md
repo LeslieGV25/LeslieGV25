@@ -26,10 +26,10 @@ Proyecto de prácticas en equipo (6 personas): comandas, reservas, pagos y gesti
 
 **Experiencia de cliente: pedido, pago y seguimiento en tiempo real**
 <p>
-  <img src="images/grupo-bravo-cliente-1.jpeg" width="180">
-  <img src="images/grupo-bravo-cliente-2.jpeg" width="180">
-  <img src="images/grupo-bravo-cliente-3.jpeg" width="180">
-  <img src="images/grupo-bravo-cliente-4.jpeg" width="180">
+  <img src="images/grupo-bravo-cliente-1.jpeg" width="150">
+  <img src="images/grupo-bravo-cliente-2.jpeg" width="150">
+  <img src="images/grupo-bravo-cliente-3.jpeg" width="150">
+  <img src="images/grupo-bravo-cliente-4.jpeg" width="150">
 </p>
 
 **Panel de camarero**
