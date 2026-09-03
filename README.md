@@ -19,17 +19,23 @@ Proyecto de prácticas en equipo (6 personas): comandas, reservas, pagos y gesti
 *(Repositorio privado por acuerdo del equipo — capturas a continuación)*
 
 **Panel Global — gestión multi-sucursal (mi aportación principal)**
-![Panel Global](images/grupo-bravo-superadmin-1.jpeg)
-![Sucursales](images/grupo-bravo-superadmin-2.jpeg)
+<p>
+  <img src="images/grupo-bravo-superadmin-1.jpeg" width="280">
+  <img src="images/grupo-bravo-superadmin-2.jpeg" width="280">
+</p>
 
 **Experiencia de cliente: pedido, pago y seguimiento en tiempo real**
-![Pedido](images/grupo-bravo-cliente-1.jpeg)
-![Pago](images/grupo-bravo-cliente-2.jpeg)
-![Seguimiento](images/grupo-bravo-cliente-3.jpeg)
-![Geolocalización](images/grupo-bravo-cliente-4.jpeg)
+<p>
+  <img src="images/grupo-bravo-cliente-1.jpeg" width="200">
+  <img src="images/grupo-bravo-cliente-2.jpeg" width="200">
+  <img src="images/grupo-bravo-cliente-3.jpeg" width="200">
+  <img src="images/grupo-bravo-cliente-4.jpeg" width="200">
+</p>
 
 **Panel de camarero**
-![Camarero](images/grupo-bravo-camarero-1.jpeg)
+<p>
+  <img src="images/grupo-bravo-camarero-1.jpeg" width="280">
+</p>
 
 ## 📫 Contacto
 [LinkedIn](https://www.linkedin.com/in/leslie-gonzales-vergara-b65273416/) · [GitHub](https://github.com/LeslieGV25) 
