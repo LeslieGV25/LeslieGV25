@@ -20,8 +20,8 @@ Proyecto de prácticas en equipo (6 personas): comandas, reservas, pagos y gesti
 
 **Panel Global — gestión multi-sucursal (mi aportación principal)**
 <p>
-  <img src="images/grupo-bravo-superadmin-1.jpeg" width="280">
-  <img src="images/grupo-bravo-superadmin-2.jpeg" width="280">
+  <img src="images/grupo-bravo-superadmin-1.jpeg" width="200">
+  <img src="images/grupo-bravo-superadmin-2.jpeg" width="200">
 </p>
 
 **Experiencia de cliente: pedido, pago y seguimiento en tiempo real**
@@ -34,7 +34,7 @@ Proyecto de prácticas en equipo (6 personas): comandas, reservas, pagos y gesti
 
 **Panel de camarero**
 <p>
-  <img src="images/grupo-bravo-camarero-1.jpeg" width="280">
+  <img src="images/grupo-bravo-camarero-1.jpeg" width="200">
 </p>
 
 ## 📫 Contacto
