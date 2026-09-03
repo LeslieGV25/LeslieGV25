@@ -31,6 +31,10 @@ Proyecto de prácticas en equipo (6 personas): comandas, reservas, pagos y gesti
   <img src="images/grupo-bravo-cliente-3.jpeg" width="150">
   <img src="images/grupo-bravo-cliente-4.jpeg" width="150">
 </p>
+**Panel de camarero**
+<p>
+  <img src="images/grupo-bravo-camarero-1.jpeg" width="180">
+</p>
 
 ### 🏋️ AgendaInstructores — Gestión de agenda para gimnasio
 App desarrollada junto a un compañero para un cliente real, resolviendo su problema de gestión de horarios de instructores. Stack: Flutter, Supabase (PostgreSQL + funciones edge), Firebase (notificaciones push).
@@ -57,10 +61,7 @@ Mi aportación: gestión comercial completa con el cliente (toma de requerimient
   <img src="images/cliente-4.jpeg" width="180">
 </p>
 
-**Panel de camarero**
-<p>
-  <img src="images/grupo-bravo-camarero-1.jpeg" width="180">
-</p>
+
 
 ## 📫 Contacto
 [LinkedIn](https://www.linkedin.com/in/leslie-gonzales-vergara-b65273416/) · [GitHub](https://github.com/LeslieGV25) 
