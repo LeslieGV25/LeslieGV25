@@ -13,7 +13,7 @@ Simulador de mercado bursátil en tiempo real con concurrencia en Java (hilos, E
 
 🔗 [Ver repositorio](https://github.com/LeslieGV25/Simulador-bolsa-)
 
-### 🍽️ Grupo Bravo — Sistema de gestión para restaurante
+### 🍽️ Zaitec — Plataforma SaaS de gestión para restaurantes
 Proyecto de prácticas en equipo (6 personas): comandas, reservas, pagos y gestión multi-sucursal, con backend FastAPI + MongoDB, frontend Flutter y pagos con Stripe. Mi aportación: base de datos, backend del módulo de administración, integración con OpenStreetMap para geolocalización de pedidos, y parte del diseño de pantallas. También lideré la comunicación con el cliente, con resultado satisfactorio.
 
 *(Repositorio privado por acuerdo del equipo — capturas a continuación)*
@@ -36,7 +36,7 @@ Proyecto de prácticas en equipo (6 personas): comandas, reservas, pagos y gesti
   <img src="images/grupo-bravo-camarero-1.jpeg" width="180">
 </p>
 
-### 🏋️ AgendaInstructores — Gestión de agenda para gimnasio
+### 🏋️ AgendaFit — Gestión de agenda para gimnasio
 App desarrollada junto a un compañero para un cliente real, resolviendo su problema de gestión de horarios de instructores. Stack: Flutter, Supabase (PostgreSQL + funciones edge), Firebase (notificaciones push).
 
 Mi aportación: gestión comercial completa con el cliente (toma de requerimientos, negociación), configuración de la base de datos en Supabase, hosting en Firebase, notificaciones push, y participación en decisiones de diseño de interfaz.
@@ -64,4 +64,4 @@ Mi aportación: gestión comercial completa con el cliente (toma de requerimient
 
 
 ## 📫 Contacto
-[LinkedIn](https://www.linkedin.com/in/leslie-gonzales-vergara-b65273416/) · [GitHub](https://github.com/LeslieGV25) 
+[LinkedIn](https://www.linkedin.com/in/leslie-gonzales-vergara) · [GitHub](https://github.com/LeslieGV25) 
